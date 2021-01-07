@@ -6,5 +6,6 @@ public helloworld{
     System.out.println("Gak ngapa-ngapain");
     System.out.println("owh iya lah.eh entar anterin aq ya");
     System.out.println("Gampang boss");
+    System.out.println("udah kah wing");
   }
 }
