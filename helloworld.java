@@ -4,5 +4,6 @@ public helloworld{
     System.out.println("Selamat Pagi Dunia Tipu-Tipu");
     System.out.println("ngapain lu");
     System.out.println("Gak ngapa-ngapain");
+    System.out.println("owh iya lah.eh entar anterin aq ya");
   }
 }
