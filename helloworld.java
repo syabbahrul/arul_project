@@ -10,7 +10,11 @@ public helloworld{
      System.out.println("fuad ganteng gk?");
      System.out.println("Kata syabahrul: ihh ganteng banget fuad, wkwkwk");
     System.out.println("Kata syabahrul: ihh kan anu nya fuad tari kan , wkwkwkwk");
+ saya-punya
     
     editan terbaru.(arul)
+
+    editan terbaru.(yudi punya)
+ main
   }
 }
