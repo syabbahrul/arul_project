@@ -13,7 +13,8 @@ public helloworld{
     System.out.println("Kata syabahrul: ihh kan anu nya fuad tari kan , wkwkwkwk");
  
 System.out.println("iya deh");
-   
+    
+   System.out.println("apaan sih yud");
 
   }
 }
